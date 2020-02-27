@@ -13,3 +13,7 @@ Plug 'junegunn/vim-easy-align'
 Plug 'easymotion/vim-easymotion'
 
 Plug 'tpope/vim-fugitive'
+
+Plug 'ntpeters/vim-better-whitespace'
+
+Plug 'nathanaelkane/vim-indent-guides'

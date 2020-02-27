@@ -15,8 +15,25 @@ set autoread
 " Highlight search results.
 set hlsearch
 
+" Highlight all pattern matches WHILE typing the pattern
+set incsearch
+
+" Ignore case when searching
+set ignorecase
+set smartcase
+
 " Show matching backets when text indicator is over them.
 set showmatch
+
+" When deleting whitespace at the beginning of a line, delete
+" 1 tab worth of spaces (for us this is 4 spaces)
+set smarttab
+
+" When creating a new line, copy the indentation from the line above
+set autoindent
+
+" Highlight the current line
+set cursorline
 
 " Enable folding.
 set foldmethod=indent
@@ -28,8 +45,6 @@ set foldlevel=99
 " Enable syntax highlighting.
 syntax enable
 
-" Set VIM to 8 color mode - I like how the desert colorscheme displays then.
-set t_Co=8
 colorscheme desert
 set background=dark
 
