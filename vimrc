@@ -55,6 +55,12 @@ set expandtab
 set shiftwidth=4
 set tabstop=4
 
+" Display tab completion
+set wildmenu
+
+" List possible matches, complete first full match during tab completion.
+set wildmode=list:full
+
 set ai " Auto indent.
 set si " Smart indent.
 set wrap " Wrap lines.
