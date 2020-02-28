@@ -17,3 +17,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'ntpeters/vim-better-whitespace'
 
 Plug 'nathanaelkane/vim-indent-guides'
+
+Plug 'wakatime/vim-wakatime'
+
+Plug 'ctrlpvim/ctrlp.vim'
