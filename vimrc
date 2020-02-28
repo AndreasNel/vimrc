@@ -59,7 +59,7 @@ set tabstop=4
 set wildmenu
 
 " List possible matches, complete first full match during tab completion.
-set wildmode=list:full
+set wildmode=list
 
 set ai " Auto indent.
 set si " Smart indent.
