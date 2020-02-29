@@ -58,8 +58,11 @@ set tabstop=4
 " Display tab completion
 set wildmenu
 
-" List possible matches, complete first full match during tab completion.
+" List possible matches
 set wildmode=list
+
+" Autosave all buffers when switching buffers.
+set autowriteall
 
 set ai " Auto indent.
 set si " Smart indent.
