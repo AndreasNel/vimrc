@@ -32,6 +32,9 @@ set smarttab
 " When creating a new line, copy the indentation from the line above
 set autoindent
 
+" Auto save when switching buffers
+set autowriteall
+
 " Highlight the current line
 set cursorline
 
