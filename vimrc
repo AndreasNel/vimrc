@@ -83,8 +83,12 @@ set viminfo^=%
 " Enable mouse.
 set mouse=a
 
-" Show line numbers.
-set number
+" Show relative line numbers.
+set relativenumber
+
+" Enable copy/paste from/to Vim and the system
+set clipboard=unnamed
+set clipboard=unnamedplus
 
 " Prevent syntax highlighting from going out of sync.
 au Syntax * syntax sync fromstart
