@@ -42,8 +42,8 @@ set cursorline
 set foldmethod=indent
 set foldlevel=99
 
-" Enable folding with the spacebar.
-"nnoremap <space> za
+" Add extra lines before/after cursor
+set scrolloff=20
 
 " Enable syntax highlighting.
 syntax enable
