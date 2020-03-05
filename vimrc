@@ -25,6 +25,9 @@ set smartcase
 " Show matching backets when text indicator is over them.
 set showmatch
 
+" Show the command in the last line while it is being typed.
+set showcmd
+
 " When deleting whitespace at the beginning of a line, delete
 " 1 tab worth of spaces (for us this is 4 spaces)
 set smarttab
@@ -86,7 +89,6 @@ set mouse=a
 set relativenumber
 
 " Enable copy/paste from/to Vim and the system
-set clipboard=unnamed
 set clipboard=unnamedplus
 
 " Prevent syntax highlighting from going out of sync.
