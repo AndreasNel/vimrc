@@ -51,7 +51,7 @@ set scrolloff=20
 " Enable syntax highlighting.
 syntax enable
 
-colorscheme desert
+colorscheme minimalist
 set background=dark
 
 " Use spaces instead of tabs.

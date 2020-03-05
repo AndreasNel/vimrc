@@ -14,6 +14,8 @@ Plug 'easymotion/vim-easymotion'
 
 Plug 'tpope/vim-fugitive'
 
+Plug 'dikiaap/minimalist'
+
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'wakatime/vim-wakatime'
