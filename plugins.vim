@@ -13,6 +13,7 @@ Plug 'junegunn/vim-easy-align'
 Plug 'easymotion/vim-easymotion'
 
 Plug 'tpope/vim-fugitive'
+Plug 'tommcdo/vim-fugitive-blame-ext'
 
 Plug 'dikiaap/minimalist'
 
