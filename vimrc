@@ -46,7 +46,7 @@ set foldmethod=indent
 set foldlevel=99
 
 " Add extra lines before/after cursor
-set scrolloff=20
+set scrolloff=10
 
 " Enable syntax highlighting.
 syntax enable
