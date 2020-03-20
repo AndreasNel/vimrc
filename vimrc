@@ -85,6 +85,9 @@ set viminfo^=%
 " Enable mouse.
 set mouse=a
 
+" Show absolute numbers.
+set number
+
 " Show relative line numbers.
 set relativenumber
 
