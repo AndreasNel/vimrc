@@ -6,12 +6,14 @@ Plug 'Valloric/YouCompleteMe', {'do': './install.py --ts-completer --clang-compl
 Plug 'ternjs/tern_for_vim', {'do': 'npm install'}
 
 Plug 'pangloss/vim-javascript'
+Plug 'leafgarland/typescript-vim'
 Plug 'elzr/vim-json'
 Plug 'lifepillar/pgsql.vim', {'do': 'patch -p0 < ../../modules/plugins/vim-pgsql.patch'}
 
 Plug 'junegunn/vim-easy-align'
-Plug 'easymotion/vim-easymotion'
 
+Plug 'tpope/vim-abolish'
+Plug 'tpope/vim-surround'
 Plug 'tpope/vim-fugitive'
 Plug 'tommcdo/vim-fugitive-blame-ext'
 
@@ -21,7 +23,6 @@ Plug 'ntpeters/vim-better-whitespace'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'wakatime/vim-wakatime'
 Plug 'ctrlpvim/ctrlp.vim'
-Plug 'tpope/vim-surround'
 Plug 'tomtom/tcomment_vim'
 Plug 'mattn/emmet-vim'
 Plug 'psf/black'
