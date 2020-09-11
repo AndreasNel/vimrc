@@ -3,7 +3,6 @@
 " So configuration for tmux.vim would go in modules/plugins/tmux.vim.vim
 
 Plug 'Valloric/YouCompleteMe', {'do': './install.py --ts-completer --clang-completer --java-completer'}
-Plug 'ternjs/tern_for_vim', {'do': 'npm install'}
 
 Plug 'pangloss/vim-javascript'
 Plug 'leafgarland/typescript-vim'
