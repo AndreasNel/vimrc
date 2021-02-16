@@ -15,6 +15,9 @@ Plug 'tpope/vim-abolish'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-fugitive'
 Plug 'tommcdo/vim-fugitive-blame-ext'
+Plug 'tpope/vim-unimpaired'
+
+Plug 'tmux-plugins/vim-tmux'
 
 Plug 'dikiaap/minimalist'
 
@@ -30,5 +33,4 @@ Plug 'fisadev/vim-isort'
 Plug 'preservim/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'jeffkreeftmeijer/vim-numbertoggle'
-Plug 'mtth/scratch.vim'
 Plug 'editorconfig/editorconfig-vim'
